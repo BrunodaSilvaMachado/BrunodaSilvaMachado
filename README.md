@@ -16,27 +16,35 @@ You can click the Preview link to take a look at your changes.
 
 ## Android (Java/Kotlin)
 
-* https://github.com/BrunodaSilvaMachado/Uber
-* https://github.com/BrunodaSilvaMachado/Ifood
-* https://github.com/BrunodaSilvaMachado/KChatMessenger
-* https://github.com/BrunodaSilvaMachado/BlocoDeNota
-* https://github.com/BrunodaSilvaMachado/App10ListaDeTarefas
-* https://github.com/BrunodaSilvaMachado/App5CalculadoraGorjeta
-* https://github.com/BrunodaSilvaMachado/App4AlcoolouGasolina
-* https://github.com/BrunodaSilvaMachado/PedraPapelTesoura
+* [Uber](https://github.com/BrunodaSilvaMachado/Uber)
+* [Ifood](https://github.com/BrunodaSilvaMachado/Ifood)
+* [KChatMessenger](https://github.com/BrunodaSilvaMachado/KChatMessenger)
+* [BlocoDeNota](https://github.com/BrunodaSilvaMachado/BlocoDeNota)
+* [ListaDeTarefas](https://github.com/BrunodaSilvaMachado/App10ListaDeTarefas)
+* [CalculadoraGorjeta](https://github.com/BrunodaSilvaMachado/App5CalculadoraGorjeta)
+* [AlcoolouGasolina](https://github.com/BrunodaSilvaMachado/App4AlcoolouGasolina)
+* [PedraPapelTesoura](https://github.com/BrunodaSilvaMachado/PedraPapelTesoura)
+* [Youtube(exemple)](https://github.com/BrunodaSilvaMachado/Youtube)
+* [WhatsApp](https://github.com/BrunodaSilvaMachado/WhatsApp)
+* [OLX](https://github.com/BrunodaSilvaMachado/OLX)
+* [Frases do Dia](https://github.com/BrunodaSilvaMachado/Frasesdodiaprojeto)
+* [Flappy Bird](https://github.com/BrunodaSilvaMachado/FlappyBird)
+* [AlcoolouGasolina (kotlin)](https://github.com/BrunodaSilvaMachado/AppAlcoolouGasolina)
+* [Aprenda Ingles](https://github.com/BrunodaSilvaMachado/App8AprendaIngles)
+* [Cara ou Coroa](https://github.com/BrunodaSilvaMachado/CaraouCoroa)
 ## Angular
 
-* https://github.com/BrunodaSilvaMachado/angular-pwa
-* https://github.com/BrunodaSilvaMachado/proway-computer
+* [Angular Pwa (example)](https://github.com/BrunodaSilvaMachado/angular-pwa)
+* [Proway Computer](https://github.com/BrunodaSilvaMachado/proway-computer)
 
 
 ## ReactJs
-* https://github.com/BrunodaSilvaMachado/tela-login
-* https://github.com/BrunodaSilvaMachado/dio-cadastro
-* https://github.com/BrunodaSilvaMachado/calculadora
-* https://github.com/BrunodaSilvaMachado/wiki-repo
+* [Tela de login](https://github.com/BrunodaSilvaMachado/tela-login)
+* [Dio cadastro](https://github.com/BrunodaSilvaMachado/dio-cadastro)
+* [Calculadora](https://github.com/BrunodaSilvaMachado/calculadora)
+* [Wiki repository (example)](https://github.com/BrunodaSilvaMachado/wiki-repo)
 ## SpringBoot
-* https://github.com/BrunodaSilvaMachado/lab-padroes-projeto-spring-boot
+* [Padrões de projeto SbringBoot (exemples)](https://github.com/BrunodaSilvaMachado/lab-padroes-projeto-spring-boot)
 
 ## JavaScript
-* https://github.com/BrunodaSilvaMachado/js-developer-pokedex
+* [Pokedex](https://github.com/BrunodaSilvaMachado/js-developer-pokedex)
