@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 * [Wiki repository (example)](https://github.com/BrunodaSilvaMachado/wiki-repo)
 ## SpringBoot
 * [Padrões de projeto SbringBoot (exemples)](https://github.com/BrunodaSilvaMachado/lab-padroes-projeto-spring-boot)
-* [Sistem de Mensagem](https://github.com/BrunodaSilvaMachado/sistema-mensagem)
+* [Sistema de Mensagem](https://github.com/BrunodaSilvaMachado/sistema-mensagem)
 * [Spring Data JPA](https://github.com/BrunodaSilvaMachado/spring_data_jpa)
 * [Spring Boot Api](https://github.com/BrunodaSilvaMachado/Spring-Boot-Api)
 
