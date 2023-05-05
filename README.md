@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 * [CalculadoraGorjeta](https://github.com/BrunodaSilvaMachado/App5CalculadoraGorjeta)
 * [AlcoolouGasolina](https://github.com/BrunodaSilvaMachado/App4AlcoolouGasolina)
 * [PedraPapelTesoura](https://github.com/BrunodaSilvaMachado/PedraPapelTesoura)
-* [Youtube(exemple)](https://github.com/BrunodaSilvaMachado/Youtube)
+* [Youtube (exemple)](https://github.com/BrunodaSilvaMachado/Youtube)
 * [WhatsApp](https://github.com/BrunodaSilvaMachado/WhatsApp)
 * [OLX](https://github.com/BrunodaSilvaMachado/OLX)
 * [Frases do Dia](https://github.com/BrunodaSilvaMachado/Frasesdodiaprojeto)
@@ -36,7 +36,8 @@ You can click the Preview link to take a look at your changes.
 
 * [Angular Pwa (example)](https://github.com/BrunodaSilvaMachado/angular-pwa)
 * [Proway Computer](https://github.com/BrunodaSilvaMachado/proway-computer)
-
+* [Rotas em Angular (examples)](https://github.com/BrunodaSilvaMachado/roteamento)
+* [Fundamentos do Angular (examples)](https://github.com/BrunodaSilvaMachado/fundamentos-angular)
 
 ## ReactJs
 * [Tela de login](https://github.com/BrunodaSilvaMachado/tela-login)
@@ -45,6 +46,9 @@ You can click the Preview link to take a look at your changes.
 * [Wiki repository (example)](https://github.com/BrunodaSilvaMachado/wiki-repo)
 ## SpringBoot
 * [Padrões de projeto SbringBoot (exemples)](https://github.com/BrunodaSilvaMachado/lab-padroes-projeto-spring-boot)
+* [Sistem de Mensagem](https://github.com/BrunodaSilvaMachado/sistema-mensagem)
+* [Spring Data JPA](https://github.com/BrunodaSilvaMachado/spring_data_jpa)
+* [Spring Boot Api](https://github.com/BrunodaSilvaMachado/Spring-Boot-Api)
 
 ## JavaScript
 * [Pokedex](https://github.com/BrunodaSilvaMachado/js-developer-pokedex)
