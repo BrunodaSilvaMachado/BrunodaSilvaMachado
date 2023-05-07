@@ -38,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 * [Proway Computer](https://github.com/BrunodaSilvaMachado/proway-computer)
 * [Rotas em Angular (examples)](https://github.com/BrunodaSilvaMachado/roteamento)
 * [Fundamentos do Angular (examples)](https://github.com/BrunodaSilvaMachado/fundamentos-angular)
+* [Macthing game](https://github.com/BrunodaSilvaMachado/dragndrop-matching-game)
 
 ## ReactJs
 * [Tela de login](https://github.com/BrunodaSilvaMachado/tela-login)
