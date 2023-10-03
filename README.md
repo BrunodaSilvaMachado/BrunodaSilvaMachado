@@ -53,3 +53,18 @@ You can click the Preview link to take a look at your changes.
 
 ## JavaScript
 * [Pokedex](https://github.com/BrunodaSilvaMachado/js-developer-pokedex)
+* [DIO (Tela de Cadastro)](https://github.com/BrunodaSilvaMachado/dio-cadastro)
+* [Calculadora](https://github.com/BrunodaSilvaMachado/calculadora)
+* [Wiki-Repo (Enciclopédia de repositórios)](https://github.com/BrunodaSilvaMachado/wiki-repo)
+
+## C/C++
+* [Equação de Calor](https://github.com/BrunodaSilvaMachado/ProjetoFinalHPC)
+* [Problemas de Contorno](https://github.com/BrunodaSilvaMachado/problemas_contorno)
+* [Sistemas não Lineares](https://github.com/BrunodaSilvaMachado/tarefa6)
+* [Linalg (Biblioteca de Algebra linear)](https://github.com/BrunodaSilvaMachado/Linalg)
+
+## Python
+* [Osciladores Acoplados e Pendulos Duplos](https://github.com/BrunodaSilvaMachado/projetofinal)
+* [Movimento Planetário](https://github.com/BrunodaSilvaMachado/Gravitacao)
+* [Pendulo Caótico](https://github.com/BrunodaSilvaMachado/Animacao)
+
