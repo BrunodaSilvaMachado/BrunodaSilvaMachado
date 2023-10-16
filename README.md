@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
 * [AlcoolouGasolina (kotlin)](https://github.com/BrunodaSilvaMachado/AppAlcoolouGasolina)
 * [Aprenda Ingles](https://github.com/BrunodaSilvaMachado/App8AprendaIngles)
 * [Cara ou Coroa](https://github.com/BrunodaSilvaMachado/CaraouCoroa)
+
+## Visão Computacional
+*[Visão Computacional](https://github.com/BrunodaSilvaMachado/visaoComputacional)
+
 ## Angular
 
 * [Angular Pwa (example)](https://github.com/BrunodaSilvaMachado/angular-pwa)
