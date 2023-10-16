@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 * [Cara ou Coroa](https://github.com/BrunodaSilvaMachado/CaraouCoroa)
 
 ## Visão Computacional
-*[Visão Computacional](https://github.com/BrunodaSilvaMachado/visaoComputacional)
+* [Visão Computacional](https://github.com/BrunodaSilvaMachado/visaoComputacional)
 
 ## Angular
 
